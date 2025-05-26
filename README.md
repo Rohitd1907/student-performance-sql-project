@@ -45,5 +45,19 @@ I built this project to:
 2. Import it into MySQL Workbench or any SQL engine.
 3. Run the script to create database, insert data, and execute analysis.
 
+🖼️ Sample Output
+
+**Class Ranking Summary**
+![Class Ranking Summary](screenshots/Class_Ranking_Summary.PNG)
+
+**Score Bands (Quartiles)**
+![Quartiles](screenshots/Score_Distribution.PNG)
+
+**Top Students**
+![Top Students](screenshots/Honouring_Top_Students.PNG)
+
+**Score Gap Analysis**
+![Score-Gap Analysis](screenshots/Score_Gap_Analysis.PNG)
+
 🙋 About Me
 I'm currently learning Data Science and building job-ready skills in SQL, Python, and analytics. This project is a milestone in my journey toward becoming a Data Analyst.
